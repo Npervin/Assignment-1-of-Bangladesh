@@ -205,16 +205,16 @@ article {
   border: 1px solid rgb(196, 189, 189);
   margin-bottom: 80px;
 }
-.article img {
-  height: 60px;
-  width: 60px;
-}
+
 .article p {
-  background-image: url("../assets/quote-bg.png");
-  background-repeat: no-repeat;
   font-size: 14px;
   color: #6a6767;
   margin-bottom: 15px;
+}
+.quote img {
+  height: 60px;
+  width: 60px;
+  background-size: cover;
 }
 .article-footer h6 {
   font-size: 18px;
