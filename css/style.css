@@ -86,9 +86,115 @@ nav button {
   font-weight: bold;
   margin-top: 24px;
   margin-bottom: 24px;
-  color: #0e0e0e;
+  color: #3f3f3f;
 }
 .innovation-card p {
   font-size: 14px;
   color: #6a6767;
+}
+.section-2 {
+  margin-left: 150px;
+  margin-right: 150px;
+}
+.future-vision h3 {
+  font-size: 25px;
+  font-weight: bold;
+  color: #0e0e0e;
+}
+.future-vision p {
+  font-size: 14px;
+  color: #6a6767;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.vision {
+  display: flex;
+  gap: 30px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.card-vision {
+  background: #cfdaee;
+  border-radius: 15px;
+  padding: 30px;
+}
+.card-vision-a {
+  background: #c6e4d6;
+  border-radius: 15px;
+  padding: 30px;
+}
+.card-vision-b {
+  background: #f7ebcf;
+  border-radius: 15px;
+  padding: 30px;
+}
+.card-vision img {
+  height: 60px;
+  width: 60px;
+}
+.card-vision h6 {
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 24px;
+  margin-bottom: 24px;
+  color: #2c2b2b;
+}
+.card-vision-a h6 {
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 24px;
+  margin-bottom: 24px;
+  color: #2c2b2b;
+}
+.card-vision-b h6 {
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 24px;
+  margin-bottom: 24px;
+  color: #2c2b2b;
+}
+.card-vision p {
+  font-size: 14px;
+  color: #6a6767;
+  margin-top: 20px;
+  margin-bottom: 25px;
+}
+.card-vision-a p {
+  font-size: 14px;
+  color: #6a6767;
+  margin-top: 20px;
+  margin-bottom: 25px;
+}
+.card-vision-b p {
+  font-size: 14px;
+  color: #6a6767;
+  margin-top: 20px;
+  margin-bottom: 25px;
+}
+.btn-a {
+  background: #5490f5;
+  font-size: 12px;
+  font-weight: 500;
+  padding: 10px 15px;
+  border-radius: 8px;
+  border: none;
+  color: white;
+}
+.btn-b {
+  background: #09a15c;
+  font-size: 12px;
+  font-weight: 500;
+  padding: 10px 15px;
+  border-radius: 8px;
+  border: none;
+  color: white;
+}
+.btn-c {
+  background: #ffc239;
+  font-size: 12px;
+  font-weight: 500;
+  padding: 10px 15px;
+  border-radius: 8px;
+  border: none;
+  color: white;
 }
